@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Path Smoothing
 This package is for path smoothing. I'm trying to reproduct the [conjugate gradient method](http://xueshu.baidu.com/usercenter/paper/show?paperid=b5778bb39c6db872ad2e507f3a14b23f&site=xueshu_se) and the [Gauss Process method](https://github.com/gtrll/gpmp2). The latter considers vehicle kinematics but is unstable now.
 
@@ -24,3 +25,7 @@ python simple_curve_plot.py
 roslaunch path_smoothing smooth_with_obstacle_demo.launch
 ````
 
+=======
+# path_smoothing
+使用一些非线性优化库做参考线优化
+>>>>>>> dae8f8bd8d295ff6787e73f8e590b15edc6fbf0c
